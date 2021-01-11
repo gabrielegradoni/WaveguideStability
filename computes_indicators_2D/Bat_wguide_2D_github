@@ -1,0 +1,13 @@
+ gfortran  Map_wguide_2D_github.f
+ ./a.out
+ gnuplot Plot_new_LE.plt
+ display Fig_LE.png   &
+ gnuplot Plot_new_RE.plt
+ display Fig_RE.png   &
+ gnuplot Plot_new_REM.plt
+ display Fig_REM.png   &
+ gnuplot Plot_new_det.plt
+ display Fig_det.png   &
+ gnuplot Plot_new_det_mod.plt
+ display Fig_det_mod.png  &
+
