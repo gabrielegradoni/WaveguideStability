@@ -1,7 +1,0 @@
- gfortran Ch_cap_orb_github.f
- ./a.out
- gnuplot Plot_orb.plt
- display Fig.png  &
- gnuplot Plot_Ch_cap_orb.plt
- display Fig1.png  &
- rm fort.*
