@@ -1,0 +1,5 @@
+ gfortran Ch_cap_github.f
+ ./a.out
+ gnuplot Plot_ch_cap.plt
+ display Fig_Ch.png  &
+ 
