@@ -1,0 +1,7 @@
+ gfortran  Map_wguide_2D_github.f
+ ./a.out
+ gnuplot Plot_orb_tan_map.plt
+ display Fig.png   &
+ gnuplot Plot_orb_tan_map1.plt
+ display Fig1.png   &
+ 
